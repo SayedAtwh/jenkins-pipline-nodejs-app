@@ -207,11 +207,11 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Author
 
-**Belal Mahmoud** - DevOps Engineer
+**Sayed ATwh Sayed ** - DevOps & Cloud  Engineer
 
-- **GitHub**: [Belal2015](https://github.com/Belal2015)
-- **LinkedIn**: [belal-mahmoud-devops](https://www.linkedin.com/in/belal-mahmoud-devops/)
-- **Email**: belalmahmoud8183@gmail.com
+- **GitHub**: [ٍSayedAtwh](https://github.com/SayedAtwh)
+- **LinkedIn**: [belal-mahmoud-devops](https://www.linkedin.com/in/sayed-atwh-sayed)
+- **Email**: sayed.atwh.sayed@gmail.com
 
 ---
 
